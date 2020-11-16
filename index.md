@@ -7,6 +7,6 @@
             </script>
     </head>
     <body>
-        <button onclick="clcik()">ILIA'S BUTTON</button>
+        <button onclick="click()">ILIA'S BUTTON</button>
     </body>
 </html>
