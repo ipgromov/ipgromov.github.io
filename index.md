@@ -1,6 +1,6 @@
 <html>
     <head>
-        <scrip type="text/javascript"></script>>
+        <script type="text/javascript">
             function click() {
               alert("Assignment complete!");
             }
